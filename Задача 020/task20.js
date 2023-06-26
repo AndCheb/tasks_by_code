@@ -1,0 +1,1 @@
+const powA3 = A => Math.pow(A, 3);
