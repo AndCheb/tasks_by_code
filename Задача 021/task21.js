@@ -1,0 +1,1 @@
+const CircleS = R => Math.PI * Math.pow(R, 2);
