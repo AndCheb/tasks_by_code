@@ -1,0 +1,1 @@
+const circumferenceLength = d => Math.PI * d;
