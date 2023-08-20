@@ -1,0 +1,1 @@
+const powersOfTwo = n => Array.from({ length: n }, (_, i) => 2 ** i);
