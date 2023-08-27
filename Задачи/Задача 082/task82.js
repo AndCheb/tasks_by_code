@@ -1,0 +1,1 @@
+const letters = n => Array.from({ length: n }, (_, i) => String.fromCharCode(65 + i));
